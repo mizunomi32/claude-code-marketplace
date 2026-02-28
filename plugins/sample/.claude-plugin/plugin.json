@@ -1,0 +1,18 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "Sample plugin for demonstration",
+  "author": "Dev Team",
+  "commands": [
+    {
+      "name": "hello",
+      "description": "Hello world command"
+    }
+  ],
+  "agents": [
+    {
+      "name": "code-reviewer",
+      "description": "Code review agent"
+    }
+  ]
+}

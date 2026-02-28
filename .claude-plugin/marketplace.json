@@ -1,0 +1,15 @@
+{
+  "name": "company-plugins",
+  "owner": {
+    "name": "Dev Team",
+    "email": "dev@example.com"
+  },
+  "plugins": [
+    {
+      "name": "sample",
+      "source": "./plugins/sample",
+      "description": "Sample plugin for demonstration",
+      "version": "1.0.0"
+    }
+  ]
+}
