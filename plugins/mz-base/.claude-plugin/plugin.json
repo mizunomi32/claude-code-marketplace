@@ -1,0 +1,34 @@
+{
+  "name": "mz-base",
+  "version": "1.2.0",
+  "description": "mz-base plugin",
+  "author": "mz32",
+  "commands": [
+    {
+      "name": "hello",
+      "description": "Hello world command"
+    }
+  ],
+  "agents": [
+    {
+      "name": "code-reviewer",
+      "description": "Code review agent"
+    },
+    {
+      "name": "codebase-analyzer",
+      "description": "コードベース全体を体系的に分析し、改善点を優先度付きでレポートするエージェント"
+    }
+  ],
+  "skills": [
+    {
+      "name": "analyze-codebase",
+      "description": "コードベース全体を分析して改善点を洗い出すスキル"
+    }
+  ],
+  "mcpServers": [
+    {
+      "name": "serena",
+      "description": "Semantic code retrieval and editing via Serena MCP"
+    }
+  ]
+}

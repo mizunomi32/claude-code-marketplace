@@ -6,10 +6,10 @@
   },
   "plugins": [
     {
-      "name": "sample",
-      "source": "./plugins/sample",
-      "description": "Sample plugin for demonstration",
-      "version": "1.0.0"
+      "name": "mz-base",
+      "source": "./plugins/mz-base",
+      "description": "mz-base plugin",
+      "version": "1.2.0"
     }
   ]
 }
